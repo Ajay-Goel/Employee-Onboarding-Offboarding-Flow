@@ -1,4 +1,6 @@
 # Employee-Onboarding-Offboarding-Flow
+#### New Employee is Hired
+- Stage 1
 ![alt text](https://github.com/Ajay-Goel/Employee-Onboarding-Offboarding-Flow/blob/master/Screenshots/Capture1.PNG)
 ![alt text](https://github.com/Ajay-Goel/Employee-Onboarding-Offboarding-Flow/blob/master/Screenshots/Capture2.PNG)
 ![alt text](https://github.com/Ajay-Goel/Employee-Onboarding-Offboarding-Flow/blob/master/Screenshots/Capture3.PNG)
