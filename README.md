@@ -29,5 +29,6 @@
 ![alt text](https://github.com/Ajay-Goel/Employee-Onboarding-Offboarding-Flow/blob/master/Screenshots/Capture9.PNG)
 
 - Stage 10 - Emails
+
 At Each Stage, emails will be sent to the the corresponding team for the response.
 ![alt text](https://github.com/Ajay-Goel/Employee-Onboarding-Offboarding-Flow/blob/master/Screenshots/Capture10.PNG)
